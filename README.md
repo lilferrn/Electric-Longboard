@@ -1,56 +1,5 @@
-<p align="center">
-    # 🛹 Electric Longboard Project
-    ### ECET 430 - Fernando Cante-Rojas & Alvi Choudhury - 09-09-2024
-</p>
 
-## 🧑‍💼 Client Information
-- **Client**: World Energy Innovations
-- **Contact Information**:
-  - 📧 Email: contact@WEI.com
-  - 📞 Phone: +1-800-555-1234
-
----
-
-## 👥 Roles
-| Role                | Name                |
-|---------------------|---------------------|
-| **Project Manager**  | Fernando Cante      |
-| **Mechanical Engineer** | Thomas Versace   |
-| **Electrical Engineer** | Sarah Sprite     |
-| **Software Engineer**   | Maria Sony       |
-| **Industrial Designer** | Alex Bounty      |
-| **Test Engineer**       | Brian Bic        |
-
----
-
-## 💰 Budget
-- **Total Budget**: $100,000
-- **Allocation**:
-  - 🔬 R&D: $32,000
-  - ⚙️ Materials and Parts: $38,000
-  - 🧪 Testing and Prototyping: $19,000
-  - 📈 Marketing and Brochure Design: $4,000
-  - 🛠️ Miscellaneous/Buffer: $7,000
-
----
-
-## 🗣️ Communication
-- **Internal**: 
-  - 🗓️ Weekly Zoom meetings.
-  - 💬 Daily communication on Discord.
-  - 💻 GitHub for version control.
-  
-- **Client/External**: 
-  - 📧 Bi-weekly updates via email.
-  - 🎥 Monthly video calls or in-person meetings.
-
----
-
-## 🗂️ Repository
-- **GitHub Repository**: Private GitHub repository for code, design documents, and technical specifications.
-- **Access**: Read-only access provided to the client for monitoring.
-
----
+# 🛹 Electric Longboard Project
 
 ## 📖 Logbook
 - **Daily Progress Log**: 
@@ -120,7 +69,7 @@
 
 ---
 
-## 🤝 User Interaction Stories
+## 🤝 User Interaction
 
 ### a. 📦 Unboxing
 - The user unpacks a minimalistic box containing the board, charger, and remote. The packaging is eco-friendly and made from recyclable materials. A quick start guide is included.
