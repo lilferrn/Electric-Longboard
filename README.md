@@ -105,10 +105,10 @@
 - Users must approve the final design specifications, including motor power, battery capacity, and materials used for the board.
 
 ### b. 🖼️ Drawings
-- Technical drawings of the deck, wheels, and motor placement must be reviewed and approved by the client.
+- Technical drawings of the deck, wheels, and motor placement must be reviewed and approved.
 
 ### c. 🛠️ Models
-- CAD models and physical prototypes will be presented to the client for approval before mass production begins.
+- CAD models and physical prototypes will be presented for approval before mass production begins.
 
 ---
 
