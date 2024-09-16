@@ -1,6 +1,7 @@
 **Design Document**
 
 **Major Moving Parts of Your Design**
+
 * **Motors**: Dual 1000W hub motors located in the rear wheels.  
 * **Battery Pack**: A 10,000mAh lithium-ion battery.  
 * **Wheels**: 85mm wheels with a soft polyurethane coating for smooth rides.  
@@ -8,6 +9,7 @@
 * **Braking System**: Regenerative braking that feeds energy back into the battery.
 
 **Priorities and Dependencies**
+
 * **Priority 1**: Power supply design (battery capacity, charging system).  
   * Dependency: The motors depend on an adequate power supply.  
 * **Priority 2**: Motor control (ESC selection and configuration).  
@@ -18,6 +20,7 @@
   * Dependency: Depends on the motor control system being operational.
 
 **Design Approaches for Major Moving Parts**
+
 * **Motors**: Select hub motors for a compact, efficient design without belts.  
 * **Battery**: Lithium-ion, offering long ride times with quick charging.  
 * **Wheels**: Soft wheels for grip on urban terrain, improving rider comfort.  
@@ -25,6 +28,7 @@
 * **User Interface**: Use Bluetooth for easy app-based speed control and diagnostics.
 
 **Major Component Selection**
+
 * **Motors**: Dual 1000W hub motors.  
 * **Battery**: 10,000mAh lithium-ion pack.  
 * **ESC**: Choose a VESC-compatible controller for maximum customization.
