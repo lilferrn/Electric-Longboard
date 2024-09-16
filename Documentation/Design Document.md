@@ -8,14 +8,6 @@
 * **Deck**: A flexible 7-layer bamboo and carbon fiber deck.  
 * **Braking System**: Regenerative braking that feeds energy back into the battery.
 
-**Sections / Block Diagram** Create a block diagram showing the main sections of your system:
-
-* **Power Supply**: Battery, Charger  
-* **Motor Controllers**: Electronic Speed Controller (ESC) connected to the motors  
-* **User Interface**: Bluetooth connection to mobile app, remote control  
-* **Braking System**: Integrated into the motor control  
-* **Sensors**: Speed sensor, battery level sensor
-
 **Priorities and Dependencies**
 
 * **Priority 1**: Power supply design (battery capacity, charging system).  
