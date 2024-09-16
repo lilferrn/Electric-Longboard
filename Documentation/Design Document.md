@@ -42,29 +42,3 @@
 * **ESC**: Choose a VESC-compatible controller for maximum customization.
 * **Wheels**: 85mm polyurethane wheels.  
 * **Bluetooth Module**: Low-energy Bluetooth 5.0 module.
-
----
-
-**Issues / Tickets** For tracking progress, here are example tickets you can create:
-
-* **Design Battery and Power System**:  
-  * Research and select an appropriate battery pack and charger.  
-  * Ensure it meets the range and power requirements.  
-* **Motor Controller Selection**:  
-  * Identify the right ESC for the motors.  
-  * Test with motors and ensure proper integration with the wireless remote and phone connection.  
-* **Design User Interface**:  
-  * Develop wireframes for the mobile app interface.  
-  * Implement basic app functions (speed control, battery monitoring).  
-* **Braking System**:  
-  * Research regenerative braking options.  
-  * Integrate braking into motor control.
-
----
-
-**Updates to Project Definition** As you work on these tasks, keep an open log for:
-
-* New technical challenges.  
-* Changes to component selection (if any parts are unavailable or impractical).  
-* Adjustments to your priorities and dependencies based on testing and results.
-
