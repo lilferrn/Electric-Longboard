@@ -1,6 +1,8 @@
 
 # 🛹 Electric Longboard Project
 
+hi
+
 ## 📖 Logbook
 - **Daily Progress Log**: 
   - A shared Google Doc will be maintained to record daily activities and accomplishments for each team member.
