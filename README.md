@@ -1,7 +1,6 @@
 
 # 🛹 Electric Longboard Project
 
-hi
 
 ## 📖 Logbook
 - **Daily Progress Log**: 
