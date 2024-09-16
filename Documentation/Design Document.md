@@ -30,7 +30,7 @@
 **Design Approaches for Major Moving Parts**
 
 * **Motors**: Select hub motors for a compact, efficient design without belts.  
-* **Battery**: Lithium-ion for high energy density, offering long ride times with quick charging.  
+* **Battery**: Lithium-ion, offering long ride times with quick charging.  
 * **Wheels**: Soft wheels for grip on urban terrain, improving rider comfort.  
 * **Braking**: Regenerative braking system that reduces energy waste.  
 * **User Interface**: Use Bluetooth for easy app-based speed control and diagnostics.
@@ -39,7 +39,7 @@
 
 * **Motors**: Dual 1000W hub motors.  
 * **Battery**: 10,000mAh lithium-ion pack.  
-* **ESC**: Choose a VESC-compatible controller for maximum customization.  
+* **ESC**: Choose a VESC-compatible controller for maximum customization.
 * **Wheels**: 85mm polyurethane wheels.  
 * **Bluetooth Module**: Low-energy Bluetooth 5.0 module.
 
@@ -52,7 +52,7 @@
   * Ensure it meets the range and power requirements.  
 * **Motor Controller Selection**:  
   * Identify the right ESC for the motors.  
-  * Test with motors and ensure proper integration with the Bluetooth control.  
+  * Test with motors and ensure proper integration with the wireless remote and phone connection.  
 * **Design User Interface**:  
   * Develop wireframes for the mobile app interface.  
   * Implement basic app functions (speed control, battery monitoring).  
